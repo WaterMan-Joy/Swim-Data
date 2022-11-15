@@ -1,0 +1,53 @@
+{
+  "level-1": [
+    {
+      "event": "warmingup",
+      "meter": 50,
+      "count": 2,
+      "cycle": 90,
+      "description": ""
+    },
+    {
+      "event": "warmingup",
+      "meter": 100,
+      "count": 1,
+      "cycle": 180,
+      "description": ""
+    },
+    {
+      "event": "warmingup",
+      "meter": 25,
+      "count": 4,
+      "cycle": 50,
+      "description": ""
+    },
+    {
+      "kick": [
+        {
+          "meter": 50,
+          "count": 2,
+          "cycle": 90,
+          "description": ""
+        },
+        {
+          "meter": 100,
+          "count": 2,
+          "cycle": 90,
+          "description": ""
+        },
+        {
+          "meter": 150,
+          "count": 2,
+          "cycle": 90,
+          "description": ""
+        },
+        {
+          "meter": 200,
+          "count": 2,
+          "cycle": 90,
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
