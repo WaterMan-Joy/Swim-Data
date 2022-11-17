@@ -1,53 +1,53 @@
 {
-  "level-1": [
+  "Bulgarian Bag": [
     {
-      "event": "warmingup",
-      "meter": 50,
-      "count": 2,
+      "event": "push up",
+      "count": 20,
+      "set": 3,
       "cycle": 90,
       "description": ""
     },
     {
-      "event": "warmingup",
-      "meter": 100,
-      "count": 1,
-      "cycle": 180,
+      "event": "squirt",
+      "count": 20,
+      "set": 3,
+      "cycle": 90,
       "description": ""
     },
     {
-      "event": "warmingup",
-      "meter": 25,
-      "count": 4,
-      "cycle": 50,
+      "event": "shoulder press",
+      "count": 20,
+      "set": 3,
+      "cycle": 90,
       "description": ""
     },
     {
-      "kick": [
-        {
-          "meter": 50,
-          "count": 2,
-          "cycle": 90,
-          "description": ""
-        },
-        {
-          "meter": 100,
-          "count": 2,
-          "cycle": 90,
-          "description": ""
-        },
-        {
-          "meter": 150,
-          "count": 2,
-          "cycle": 90,
-          "description": ""
-        },
-        {
-          "meter": 200,
-          "count": 2,
-          "cycle": 90,
-          "description": ""
-        }
-      ]
+      "event": "arm curl",
+      "count": 20,
+      "set": 3,
+      "cycle": 90,
+      "description": ""
+    },
+    {
+      "event": "half spin",
+      "count": 20,
+      "set": 3,
+      "cycle": 90,
+      "description": ""
+    },
+    {
+      "event": "bent over rows",
+      "count": 20,
+      "set": 3,
+      "cycle": 90,
+      "description": ""
+    },
+    {
+      "event": "swing squat",
+      "count": 20,
+      "set": 3,
+      "cycle": 90,
+      "description": ""
     }
   ]
 }
